@@ -14,5 +14,9 @@ public class CopiedNames {
         int myInteger = 1000000;
         int myVar = 1234567;
         int mySecondInteger = 1234567;
+        
+        System.out.println(variable+secondVariable+value+
+                           thirdVariable+value2+variables+secondVariables+value3+
+                           intVariable+myInteger+myVar+mySecondInteger);
     }
 }
