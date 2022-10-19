@@ -1,6 +1,6 @@
 package lang.print.gaps.task2;
 
-public class advancedNamingConvention {
+public class AdvancedNamingConvention {
 
     void callToFriend() {
         System.out.println("Calling to friend");
